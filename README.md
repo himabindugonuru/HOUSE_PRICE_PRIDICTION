@@ -1,1 +1,1 @@
-# HOUSE_PRICE_PRIDICTION
+house price prediction project
